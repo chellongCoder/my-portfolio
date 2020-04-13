@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Portfolio v5.0.7 ( https://chellongcoder.github.io/my-portfolio/)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/my-portfolio/blob/master/LICENSE)
  */
 
